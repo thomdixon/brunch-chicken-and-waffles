@@ -5,18 +5,18 @@ using [CoffeeScript](http://coffeescript.org),
 [Angular](http://angularjs.org), and [AngularUI](http://angular-ui.github.io)
 with [Bootstrap 3](http://getbootstrap.com).
 
-# Why?
+## Why?
 
 Most other Angular brunches either had outdated libraries or contained a setup
 for an external templating engine, such as Jade. Since my editor supports Zen
 Coding plugins, I didn't find the creation of HTML templates troublesome.
 
-# Requirements
+## Requirements
 
 1. Brunch edge (`npm install -g brunch/brunch`)
 2. Bower (`npm install -g bower`)
 
-# Usage
+## Usage
 
 1. Create a new app with brunch (`brunch new YourAwesomeApp -s https://github.com/thomdixon/brunch-chicken-and-waffles`)
 2. Run `npm install`
