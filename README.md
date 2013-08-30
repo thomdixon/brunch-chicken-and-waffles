@@ -18,9 +18,7 @@ Coding plugins, I didn't find the creation of HTML templates troublesome.
 
 ## Usage
 
-1. Create a new app with brunch (`brunch new YourAwesomeApp -s https://github.com/thomdixon/brunch-chicken-and-waffles`)
-2. Run `npm install`
-3. Run `bower install`
-4. Copy Bootstrap's fonts to assets (`cp bower_components/bootstrap/dist/fonts/* app/assets/fonts/`)
-5. Run `brunch w -s`
-6. Navigate to `localhost:3333` to see it in action, or view `public/` to see the result
+1. Create a new app with Brunch (`brunch new https://github.com/thomdixon/brunch-chicken-and-waffles YourAwesomeApp`)
+2. Copy Bootstrap's fonts to assets (`cp bower_components/bootstrap/dist/fonts/* app/assets/fonts/`)
+3. Run `brunch w -s`
+4. Navigate to `localhost:3333` to see it in action, or view `public/` to see the result
