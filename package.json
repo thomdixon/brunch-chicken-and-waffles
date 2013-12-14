@@ -13,6 +13,8 @@
     "css-brunch": "~1.6.0",
     "uglify-js-brunch": "~1.7.2",
     "clean-css-brunch": "~1.6.0",
-    "coffee-script-brunch": "~1.7.2"
+    "coffee-script-brunch": "~1.7.2",
+    "less": "~1.5.1",
+    "less-brunch": "~1.7.1"
   }
 }

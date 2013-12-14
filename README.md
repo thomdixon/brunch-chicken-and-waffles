@@ -2,6 +2,7 @@
 
 This is a [Brunch](http://brunch.io) skeleton for creating HTML5 applications
 using [CoffeeScript](http://coffeescript.org),
+[LESS](http://lesscss.org/),
 [Angular](http://angularjs.org), and [AngularUI](http://angular-ui.github.io)
 with [Bootstrap 3](http://getbootstrap.com).
 
