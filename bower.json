@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "main": "public/app.js",
   "dependencies": {
-     "angular-route": "~1.2.0-rc.1",
-     "angular-ui-bootstrap-bower": "~0.5.0",
-     "bootstrap": "~3.0.0"
+     "angular-route": ">=1.2.0",
+     "angular-ui-bootstrap-bower": ">=0.5.0",
+     "bootstrap": ">=3.0.0"
     },
   "overrides": {}
 }
